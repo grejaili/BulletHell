@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\BulletHell.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{CC90A90B-7D45-40B1-BF8A-BF7CC1B4151E}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\BulletHell.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\BulletHellEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{CFFCE39E-AF2E-47C7-8ECB-6BBF4322B8B7}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\BulletHell">
+			<UniqueIdentifier>{309B6379-7775-4A91-8AEC-E3E3C45EE0AC}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\BulletHell\BulletHell.Build.cs">
+			<Filter>Source\BulletHell</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\BulletHell\BulletHell.cpp">
+			<Filter>Source\BulletHell</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BulletHell\BulletHell.h">
+			<Filter>Source\BulletHell</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\BulletHell\BulletHellCharacter.cpp">
+			<Filter>Source\BulletHell</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BulletHell\BulletHellCharacter.h">
+			<Filter>Source\BulletHell</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\BulletHell\BulletHellGameMode.cpp">
+			<Filter>Source\BulletHell</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BulletHell\BulletHellGameMode.h">
+			<Filter>Source\BulletHell</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\BulletHell\BulletHellPlayerController.cpp">
+			<Filter>Source\BulletHell</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BulletHell\BulletHellPlayerController.h">
+			<Filter>Source\BulletHell</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

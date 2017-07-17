@@ -1,0 +1,3 @@
+C:\Users\gabriel.ferreira\Documents\Unreal Projects\BulletHell\Source\BulletHell\BulletHell.Build.cs
+C:\Users\gabriel.ferreira\Documents\Unreal Projects\BulletHell\Source\BulletHell.Target.cs
+C:\Users\gabriel.ferreira\Documents\Unreal Projects\BulletHell\Source\BulletHellEditor.Target.cs
